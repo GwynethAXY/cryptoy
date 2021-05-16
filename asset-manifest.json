@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1ac5fec.chunk.css",
+    "main.js": "/static/js/main.ff5d36aa.chunk.js",
+    "main.js.map": "/static/js/main.ff5d36aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b092ff20.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b092ff20.js.map",
+    "static/js/2.eb9bfc72.chunk.js": "/static/js/2.eb9bfc72.chunk.js",
+    "static/js/2.eb9bfc72.chunk.js.map": "/static/js/2.eb9bfc72.chunk.js.map",
+    "static/js/3.990425d3.chunk.js": "/static/js/3.990425d3.chunk.js",
+    "static/js/3.990425d3.chunk.js.map": "/static/js/3.990425d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e1ac5fec.chunk.css.map": "/static/css/main.e1ac5fec.chunk.css.map",
+    "static/js/2.eb9bfc72.chunk.js.LICENSE.txt": "/static/js/2.eb9bfc72.chunk.js.LICENSE.txt",
+    "static/media/ABE.da96ed13.png": "/static/media/ABE.da96ed13.png",
+    "static/media/ECB_Encryption.e89e7a63.png": "/static/media/ECB_Encryption.e89e7a63.png",
+    "static/media/modExamples.7f637a32.png": "/static/media/modExamples.7f637a32.png",
+    "static/media/modFormula.f4d09a63.png": "/static/media/modFormula.f4d09a63.png",
+    "static/media/plaintextToFroCiphertext.b3bfb389.png": "/static/media/plaintextToFroCiphertext.b3bfb389.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b092ff20.js",
+    "static/js/2.eb9bfc72.chunk.js",
+    "static/css/main.e1ac5fec.chunk.css",
+    "static/js/main.ff5d36aa.chunk.js"
+  ]
+}
