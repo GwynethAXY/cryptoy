@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cryptoy/static/css/main.e1ac5fec.chunk.css",
-    "main.js": "/cryptoy/static/js/main.ff5d36aa.chunk.js",
-    "main.js.map": "/cryptoy/static/js/main.ff5d36aa.chunk.js.map",
+    "main.js": "/cryptoy/static/js/main.89302f29.chunk.js",
+    "main.js.map": "/cryptoy/static/js/main.89302f29.chunk.js.map",
     "runtime-main.js": "/cryptoy/static/js/runtime-main.63faaa85.js",
     "runtime-main.js.map": "/cryptoy/static/js/runtime-main.63faaa85.js.map",
-    "static/js/2.4b2da15e.chunk.js": "/cryptoy/static/js/2.4b2da15e.chunk.js",
-    "static/js/2.4b2da15e.chunk.js.map": "/cryptoy/static/js/2.4b2da15e.chunk.js.map",
+    "static/js/2.6777c7cb.chunk.js": "/cryptoy/static/js/2.6777c7cb.chunk.js",
+    "static/js/2.6777c7cb.chunk.js.map": "/cryptoy/static/js/2.6777c7cb.chunk.js.map",
     "static/js/3.990425d3.chunk.js": "/cryptoy/static/js/3.990425d3.chunk.js",
     "static/js/3.990425d3.chunk.js.map": "/cryptoy/static/js/3.990425d3.chunk.js.map",
     "index.html": "/cryptoy/index.html",
     "static/css/main.e1ac5fec.chunk.css.map": "/cryptoy/static/css/main.e1ac5fec.chunk.css.map",
-    "static/js/2.4b2da15e.chunk.js.LICENSE.txt": "/cryptoy/static/js/2.4b2da15e.chunk.js.LICENSE.txt",
+    "static/js/2.6777c7cb.chunk.js.LICENSE.txt": "/cryptoy/static/js/2.6777c7cb.chunk.js.LICENSE.txt",
     "static/media/ABE.da96ed13.png": "/cryptoy/static/media/ABE.da96ed13.png",
     "static/media/ECB_Encryption.e89e7a63.png": "/cryptoy/static/media/ECB_Encryption.e89e7a63.png",
     "static/media/modExamples.7f637a32.png": "/cryptoy/static/media/modExamples.7f637a32.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.63faaa85.js",
-    "static/js/2.4b2da15e.chunk.js",
+    "static/js/2.6777c7cb.chunk.js",
     "static/css/main.e1ac5fec.chunk.css",
-    "static/js/main.ff5d36aa.chunk.js"
+    "static/js/main.89302f29.chunk.js"
   ]
 }
