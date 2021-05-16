@@ -10,7 +10,7 @@ import CaesarBsics from "./components/CaesarBasics"
 import BeginMath from "./components/BeginMath";
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link
