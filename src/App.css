@@ -36,3 +36,87 @@
     transform: rotate(360deg);
   }
 }
+
+.container-drag {
+  text-align: center;
+}
+
+.wip {
+  position: static;
+  min-width: 250px;
+  min-height: 10vh;
+  background-color: #EEEEEE;
+  border: 1px solid;
+}
+
+.header {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  background-color: #E0E0E0;
+  width:100%;
+}
+
+.task-header {
+  display: inline-block;
+  background-color: skyblue;
+  width:100%;
+}
+
+.droppable {
+  position: static;
+  min-width: 100px;
+  height: 10vh;
+  right: 0;
+  top: 10;
+  background-color: #9E9E9E;
+  border: 1px dashed;
+}
+
+.draggable {
+  width: 250px;
+  height: 75px;
+  background-color: yellow;
+  margin: 15px auto;
+  line-height: 5em;
+  text-align: center;
+}
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
